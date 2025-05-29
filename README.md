@@ -79,6 +79,20 @@ Open an issue, or join the discussion tab to ask questions.
 
 Let’s build something awesome together 🌟
 
+Check the [Issues](https://github.com/Vaishnavi-Manne/CSS-Masterpieces/issues) tab to see what's open or suggest your own idea.
+
+---
+
+## 🫶 Credits
+
+Made with 💚 by Vaishnavi Manne (https://github.com/Vaishnavi-Manne) .
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE.md).
+
 
 
 
