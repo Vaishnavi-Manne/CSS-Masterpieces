@@ -80,7 +80,7 @@ Open an issue, or join the discussion tab to ask questions.
 Let’s build something awesome together 🌟
 
 
-This project is licensed under the [MIT License](./LICENSE).
+
 
 
 
